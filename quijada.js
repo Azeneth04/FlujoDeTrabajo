@@ -15,3 +15,5 @@ if ( numeroCompleto <= 999 && numeroCompleto > 99) {
 else {
     console. log ("Ingresa un número de 3 cifras");
 }
+
+//Haciendo un cambio 
