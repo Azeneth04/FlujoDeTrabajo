@@ -10,9 +10,9 @@ else {
 }
 
     
-// nunca me agarro --- else if ( numero1 < numero3 ) {
- //   console. log ("Entraste al IF ELSE");
+// nunca me agarro ---else if ( numero1 < numero3 ) {
+  //console. log ("Entraste al IF ELSE");
 //}
 // y este tampoco por que no hay un if --- else {
-  //  console. log ("Entraste al ELSE");
+  //console. log ("Entraste al ELSE");
 //} 
